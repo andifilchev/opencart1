@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>country.php</string>
+		</array>
+		<array>
+			<string>currency.php</string>
+		</array>
+		<array>
+			<string>geo_zone.php</string>
+		</array>
+		<array>
+			<string>language.php</string>
+		</array>
+		<array>
+			<string>length_class.php</string>
+		</array>
+		<array>
+			<string>order_status.php</string>
+		</array>
+		<array>
+			<string>return_action.php</string>
+		</array>
+		<array>
+			<string>return_reason.php</string>
+		</array>
+		<array>
+			<string>return_status.php</string>
+		</array>
+		<array>
+			<string>stock_status.php</string>
+		</array>
+		<array>
+			<string>tax_class.php</string>
+		</array>
+		<array>
+			<string>tax_rate.php</string>
+		</array>
+		<array>
+			<string>weight_class.php</string>
+		</array>
+		<array>
+			<string>zone.php</string>
+		</array>
+	</array>
+</dict>
+</plist>
