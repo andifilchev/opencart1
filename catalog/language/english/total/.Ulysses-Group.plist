@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>coupon.php</string>
+		</array>
+		<array>
+			<string>credit.php</string>
+		</array>
+		<array>
+			<string>handling.php</string>
+		</array>
+		<array>
+			<string>klarna_fee.php</string>
+		</array>
+		<array>
+			<string>low_order_fee.php</string>
+		</array>
+		<array>
+			<string>reward.php</string>
+		</array>
+		<array>
+			<string>sub_total.php</string>
+		</array>
+		<array>
+			<string>total.php</string>
+		</array>
+		<array>
+			<string>voucher.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

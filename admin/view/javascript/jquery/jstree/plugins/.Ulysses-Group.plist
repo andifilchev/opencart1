@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>_jquery.tree.rtl.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.checkbox.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.contextmenu.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.cookie.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.hotkeys.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.metadata.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.themeroller.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.xml_flat.js</string>
+		</array>
+		<array>
+			<string>jquery.tree.xml_nested.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

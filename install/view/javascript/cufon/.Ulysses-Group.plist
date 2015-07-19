@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Aller_400.font.js</string>
+		</array>
+		<array>
+			<string>cufon-yui.js</string>
+		</array>
+		<array>
+			<string>Lacuna_Regular_400.font.js</string>
+		</array>
+		<array>
+			<string>TitilliumText15L_400.font.js</string>
+		</array>
+		<array>
+			<string>Trebuchet_MS_400.font.js</string>
+		</array>
+		<array>
+			<string>Trebuchet_MS_italic_400.font.js</string>
+		</array>
+		<array>
+			<string>Verdana_400.font.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

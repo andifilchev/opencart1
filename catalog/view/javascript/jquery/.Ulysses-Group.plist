@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>colorbox</string>
+		<string>nivo-slider</string>
+		<string>superfish</string>
+		<string>ui</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>ajaxupload.js</string>
+		</array>
+		<array>
+			<string>jquery-1.7.1.min.js</string>
+		</array>
+		<array>
+			<string>jquery.cycle.js</string>
+		</array>
+		<array>
+			<string>jquery.jcarousel.min.js</string>
+		</array>
+		<array>
+			<string>jquery.total-storage.min.js</string>
+		</array>
+		<array>
+			<string>tabs.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>jquery</string>
+		<string>unitpngfix</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>common.js</string>
+		</array>
+		<array>
+			<string>crossdomain.php</string>
+		</array>
+		<array>
+			<string>DD_belatedPNG_0.0.8a-min.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

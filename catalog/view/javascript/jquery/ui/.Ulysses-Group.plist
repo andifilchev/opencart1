@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>external</string>
+		<string>i18n</string>
+		<string>minified</string>
+		<string>themes</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>jquery-ui-1.8.16.custom.min.js</string>
+		</array>
+		<array>
+			<string>jquery-ui-timepicker-addon.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

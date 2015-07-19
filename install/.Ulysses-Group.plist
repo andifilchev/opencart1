@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>controller</string>
+		<string>model</string>
+		<string>view</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>cli_install.php</string>
+		</array>
+		<array>
+			<string>index.php</string>
+		</array>
+		<array>
+			<string>opencart.sql</string>
+		</array>
+	</array>
+</dict>
+</plist>

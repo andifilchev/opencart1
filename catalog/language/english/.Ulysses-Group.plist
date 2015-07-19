@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>account</string>
+		<string>affiliate</string>
+		<string>checkout</string>
+		<string>common</string>
+		<string>error</string>
+		<string>information</string>
+		<string>mail</string>
+		<string>module</string>
+		<string>openbay</string>
+		<string>payment</string>
+		<string>product</string>
+		<string>shipping</string>
+		<string>total</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>english.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

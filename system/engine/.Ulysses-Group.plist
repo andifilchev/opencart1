@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>action.php</string>
+		</array>
+		<array>
+			<string>controller.php</string>
+		</array>
+		<array>
+			<string>front.php</string>
+		</array>
+		<array>
+			<string>loader.php</string>
+		</array>
+		<array>
+			<string>model.php</string>
+		</array>
+		<array>
+			<string>registry.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

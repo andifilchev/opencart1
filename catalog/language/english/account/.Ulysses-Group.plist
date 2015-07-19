@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>account.php</string>
+		</array>
+		<array>
+			<string>address.php</string>
+		</array>
+		<array>
+			<string>download.php</string>
+		</array>
+		<array>
+			<string>edit.php</string>
+		</array>
+		<array>
+			<string>forgotten.php</string>
+		</array>
+		<array>
+			<string>login.php</string>
+		</array>
+		<array>
+			<string>logout.php</string>
+		</array>
+		<array>
+			<string>newsletter.php</string>
+		</array>
+		<array>
+			<string>order.php</string>
+		</array>
+		<array>
+			<string>password.php</string>
+		</array>
+		<array>
+			<string>recurring.php</string>
+		</array>
+		<array>
+			<string>register.php</string>
+		</array>
+		<array>
+			<string>return.php</string>
+		</array>
+		<array>
+			<string>reward.php</string>
+		</array>
+		<array>
+			<string>success.php</string>
+		</array>
+		<array>
+			<string>transaction.php</string>
+		</array>
+		<array>
+			<string>voucher.php</string>
+		</array>
+		<array>
+			<string>wishlist.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>amazon.php</string>
+		</array>
+		<array>
+			<string>amazon_listing.php</string>
+		</array>
+		<array>
+			<string>amazon_patch.php</string>
+		</array>
+		<array>
+			<string>amazonus.php</string>
+		</array>
+		<array>
+			<string>amazonus_listing.php</string>
+		</array>
+		<array>
+			<string>amazonus_patch.php</string>
+		</array>
+		<array>
+			<string>ebay.php</string>
+		</array>
+		<array>
+			<string>ebay_patch.php</string>
+		</array>
+		<array>
+			<string>ebay_product.php</string>
+		</array>
+		<array>
+			<string>ebay_profile.php</string>
+		</array>
+		<array>
+			<string>ebay_template.php</string>
+		</array>
+		<array>
+			<string>openbay.php</string>
+		</array>
+		<array>
+			<string>order.php</string>
+		</array>
+		<array>
+			<string>version.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

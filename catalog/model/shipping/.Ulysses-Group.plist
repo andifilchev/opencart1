@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>auspost.php</string>
+		</array>
+		<array>
+			<string>citylink.php</string>
+		</array>
+		<array>
+			<string>fedex.php</string>
+		</array>
+		<array>
+			<string>flat.php</string>
+		</array>
+		<array>
+			<string>free.php</string>
+		</array>
+		<array>
+			<string>item.php</string>
+		</array>
+		<array>
+			<string>parcelforce_48.php</string>
+		</array>
+		<array>
+			<string>pickup.php</string>
+		</array>
+		<array>
+			<string>royal_mail.php</string>
+		</array>
+		<array>
+			<string>ups.php</string>
+		</array>
+		<array>
+			<string>usps.php</string>
+		</array>
+		<array>
+			<string>weight.php</string>
+		</array>
+	</array>
+</dict>
+</plist>
